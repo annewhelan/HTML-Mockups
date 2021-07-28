@@ -1,0 +1,16 @@
+<div class="login-container">
+    <div class="header">
+        <div class="header-title"></div>
+        <div class="header-close-button"></div>
+    </div>
+    <div class="main">
+        <div class="login-form">
+            <div class="form-title">
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="forgot-password"></div>
+    </div>
+    <div class="settings-button"></div>
+</div>
